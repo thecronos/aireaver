@@ -1,2 +1,18 @@
 THIS IS GUI MOD FOR AIRCRACK+REAVER [OPEN SOURCE]
 Coded by Cr0n05
+
+INSTALL Debian [ APT-GET ]
+apt-get install reaver
+apt-get install aircrack-ng
+apt-get install perl-tk
+
+INSTALL ArchLinux
+pacman -S aircrack-ng
+pacman -S perl-tk
+go to AUR reaver and install
+./configure
+make
+make install
+
+INSTALL FEDORA
+foda-se eu nao uso esta merda mesmo
